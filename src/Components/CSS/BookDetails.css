@@ -1,0 +1,23 @@
+.book-detail {
+	margin: 2% 20% 0% 20%;
+}
+
+.book-cover {
+	background-size: contain;
+  	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+h4 {
+	padding: 0px;
+}
+
+.detail-block {
+	font-size: 14px;
+	padding: 2px;
+}
+
+.detail-block-authors {
+	font-size: 14px;
+	padding: 2px;
+	display: inline-flex;
+}
